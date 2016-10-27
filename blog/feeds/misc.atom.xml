@@ -1,113 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-09-02T12:00:00+08:00</updated><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-02T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-02:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-10-27T12:00:00+08:00</updated><entry><title>2016Fall 10/27 筆記</title><link href="./2016fall-1027-bi-ji.html" rel="alternate"></link><published>2016-10-27T12:00:00+08:00</published><updated>2016-10-27T12:00:00+08:00</updated><author><name>40423136</name></author><id>tag:,2016-10-27:./2016fall-1027-bi-ji.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-
-&lt;h1&gt;機械設計主題教學&lt;/h1&gt;
-&lt;p&gt;創造力三元素, 機械設計的六種表達, 協同設計的四大面向.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;強化創造能力 - 自學力、程式力與想像力
-(Creative Competencies)&lt;/li&gt;
-&lt;li&gt;熟習六種表達  - 口語、文字、2D、3D、理論與實體表達
-(Six Presentation Methods)&lt;/li&gt;
-&lt;li&gt;融入協同設計 - 電腦、網路、軟硬體工具與協同專案
-(Collaborative Designs)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;2016 Fall CADP A 分組網頁:&lt;/p&gt;
-&lt;p&gt;&lt;a href='../g1'&gt;第1組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g1/40223103'&gt;40223103&lt;/a&gt; 
-&lt;a href='../g1/40223109'&gt;40223109&lt;/a&gt; 
-&lt;a href='../g1/40423111'&gt;40423111&lt;/a&gt; 
-&lt;a href='../g1/40443111'&gt;40443111&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g2'&gt;第2組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g2/40423101'&gt;40423101&lt;/a&gt; 
-&lt;a href='../g2/40423103'&gt;40423103&lt;/a&gt; 
-&lt;a href='../g2/40423104'&gt;40423104&lt;/a&gt; 
-&lt;a href='../g2/40423117'&gt;40423117&lt;/a&gt; 
-&lt;a href='../g2/40423136'&gt;40423136&lt;/a&gt; 
-&lt;a href='../g2/40423144'&gt;40423144&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g3'&gt;第3組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g3/40423105'&gt;40423105&lt;/a&gt; 
-&lt;a href='../g3/40423115'&gt;40423115&lt;/a&gt; 
-&lt;a href='../g3/40423119'&gt;40423119&lt;/a&gt; 
-&lt;a href='../g3/40423128'&gt;40423128&lt;/a&gt; 
-&lt;a href='../g3/40423139'&gt;40423139&lt;/a&gt; 
-&lt;a href='../g3/40423149'&gt;40423149&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g4'&gt;第4組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g4/40423106'&gt;40423106&lt;/a&gt; 
-&lt;a href='../g4/40423107'&gt;40423107&lt;/a&gt; 
-&lt;a href='../g4/40423108'&gt;40423108&lt;/a&gt; 
-&lt;a href='../g4/40423121'&gt;40423121&lt;/a&gt; 
-&lt;a href='../g4/40423125'&gt;40423125&lt;/a&gt; 
-&lt;a href='../g4/40423140'&gt;40423140&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g5'&gt;第5組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g5/40423109'&gt;40423109&lt;/a&gt; 
-&lt;a href='../g5/40423110'&gt;40423110&lt;/a&gt; 
-&lt;a href='../g5/40423113'&gt;40423113&lt;/a&gt; 
-&lt;a href='../g5/40423130'&gt;40423130&lt;/a&gt; 
-&lt;a href='../g5/40423131'&gt;40423131&lt;/a&gt; 
-&lt;a href='../g5/40423138'&gt;40423138&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g6'&gt;第6組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g6/40423112'&gt;40423112&lt;/a&gt; 
-&lt;a href='../g6/40423116'&gt;40423116&lt;/a&gt; 
-&lt;a href='../g6/40423118'&gt;40423118&lt;/a&gt; 
-&lt;a href='../g6/40423127'&gt;40423127&lt;/a&gt; 
-&lt;a href='../g6/40423137'&gt;40423137&lt;/a&gt; 
-&lt;a href='../g6/40423152'&gt;40423152&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g7'&gt;第7組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g7/40423114'&gt;40423114&lt;/a&gt; 
-&lt;a href='../g7/40423115'&gt;40423115&lt;/a&gt; 
-&lt;a href='../g7/40423120'&gt;40423120&lt;/a&gt; 
-&lt;a href='../g7/40423122'&gt;40423122&lt;/a&gt; 
-&lt;a href='../g7/40423124'&gt;40423124&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g8'&gt;第8組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g8/40423123'&gt;40423123&lt;/a&gt; 
-&lt;a href='../g8/40423129'&gt;40423129&lt;/a&gt; 
-&lt;a href='../g8/40423132'&gt;40423132&lt;/a&gt; 
-&lt;a href='../g8/40423133'&gt;40423133&lt;/a&gt; 
-&lt;a href='../g8/40423155'&gt;40423155&lt;/a&gt; 
-&lt;a href='../g8/40423157'&gt;40423157&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g9'&gt;第9組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g9/40423126'&gt;40423126&lt;/a&gt; 
-&lt;a href='../g9/40423135'&gt;40423135&lt;/a&gt; 
-&lt;a href='../g9/40423150'&gt;40423150&lt;/a&gt; 
-&lt;a href='../g9/40423154'&gt;40423154&lt;/a&gt; 
-&lt;br /&gt;
-&lt;a href='../g10'&gt;第10組&lt;/a&gt;:&lt;br /&gt;
-&lt;a href='../g10/40423141'&gt;40423141&lt;/a&gt; 
-&lt;a href='../g10/40423143'&gt;40423143&lt;/a&gt; 
-&lt;a href='../g10/40423145'&gt;40423145&lt;/a&gt; 
-&lt;a href='../g10/40423146'&gt;40423146&lt;/a&gt; 
-&lt;a href='../g10/40423147'&gt;40423147&lt;/a&gt; 
-&lt;a href='../g10/40423148'&gt;40423148&lt;/a&gt; 
-&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;以下為分組資料處理程式:&lt;/p&gt;
-&lt;pre class="brush: python"&gt;
-content = open("2016fall_cadp_a_groups.txt").read()
-#print(content)
-result = content.splitlines()
-#print(result)
-gno = 1
-for i in range(len(result)):
-    #print(result[i])
-    group = result[i].split(":")
-    #列出組序
-    print("&amp;lt;a href='../g"+str(gno)+"'&amp;gt;第"+str(gno)+"組&amp;lt;/a&amp;gt;:&amp;lt;br /&amp;gt;")
-    #print("第"+str(gno)+"組:&amp;lt;br /&amp;gt;")
-    #取 group 第2成員, 用逗點隔開納入數列後, 利用[:-1]去掉最後空白
-    #print(group[1].split(",")[:-1])
-    gmember = group[1].split(",")[:-1]
-    for j in range(len(gmember)):
-        #print(gmember[j])
-        print("&amp;lt;a href='../g"+str(gno)+"/"+str(gmember[j])+"'&amp;gt;"+ \
-        str(gmember[j])+"&amp;lt;/a&amp;gt; ")
-    print("&amp;lt;br /&amp;gt;")
-    gno = gno + 1
-&lt;/pre&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry></feed>
+&lt;p&gt;一位機械設計工程師的工作內容為:
+參與機械設計討論及制定之會議
+進行機械設計並輸出設計文件( 機器圖紙、外購件清單、機器操作說明書等)
+協助機器製造、安裝等後續工作，並與相關部門做溝通
+針對測試有誤之設計不良原因做調整改善
+改良舊機台或設計新機台以適應新產品之生產需求
+學習市場新技術並適時將新技術引進企業
+而 Tesla 公司在招聘 Mechanical Design Engineer 時, 則列出一位機械設計工程師的角色、職責與要求如下:&lt;/p&gt;
+&lt;p&gt;The Role&lt;/p&gt;
+&lt;p&gt;Tesla Motors is committed to hiring and developing the top engineers in any given discipline. Our world-class engineering teams operate with a non-conventional automotive product development philosophy of high interdisciplinary collaboration, flat organizational structure and technical contribution at all levels. You will be expected to challenge and to be challenged, to create, to innovate. These jobs are not for everyone.&lt;/p&gt;
+&lt;p&gt;You must have a genuine passion for engineering the best electric vehicles in the world. You must want to work in a fast-paced, entrepreneurial company. We are building real products. This must excite you. You must be a builder. You’ll work alongside accomplished, world-renowned engineers on perhaps the most exciting automotive programs in existence today.&lt;/p&gt;
+&lt;p&gt;Mechanical engineering within the Power Electronics team requires and offers a very high level of collaboration with electrical engineers and firmware engineers. Our systems typically deliver very high currents to enable our vehicles to go faster and charge faster than any other car ever developed in the mass market. Power electronics is the core of every EV. Our systems control the flow of electrons from the wall to the battery and eventually to the motor.&lt;/p&gt;
+&lt;p&gt;Responsibilities&lt;/p&gt;
+&lt;p&gt;Design and development of components to charge and drive Model S and future Tesla vehicles.
+CAD design of plastics, sheet metal, die castings, etc.
+Work with Electrical engineers and PCBA designers to integrate components into electromechanical systems.
+Thermal and mechanical modeling and testing of components.
+Validation of components in bench and vehicle configuration.
+Collaboration with manufacturing engineers and suppliers to transition concepts to production.
+Requirements&lt;/p&gt;
+&lt;p&gt;Demonstrated successful experience in mechanical engineering within a product design and manufacturing environment.
+Experience with product and process validation.
+Detail oriented personality with solid documentation and reporting skills.
+0-2 years mechanical engineering experience.
+Proficiency in CAD modeling, CATIA v5 experience highly valued but not required.
+MS or BS in Mechanical Engineering, or equivalent in experience and exceptional ability
+至於 Ingersoll Rand 公司在招聘 Computer Aided Designer, 則列出下列訊息:&lt;/p&gt;
+&lt;p&gt;SUMMARY&lt;/p&gt;
+&lt;p&gt;Responsible for creating computer aided design (CAD) drawings using standard CAD digitizing techniques and skills. Also responsible for the system graphics required to support automation systems design.&lt;/p&gt;
+&lt;p&gt;ESSENTIAL FUNCTIONS AND RESPONSIBILITIES include the following. Other functions may be assigned.&lt;/p&gt;
+&lt;p&gt;Applies computer aided design technology to engineering principles and practices.
+Incorporates knowledge of Trane product design and installation to CAD design process.
+Prepares accurately detailed layouts to produce engineering drawing including wiring and installation details.
+Reads blueprints and provides site drawings according to specifications.
+Creates new CAD files from marked up templates or sketches.
+Creates bill of material to be included on drawings from information provided by Project Engineers.
+Revise existing HVAC mechanical or control CAD files from red-lined to as-built status.
+Creates new static background files from existing CAD files or sketches.
+Archives CAD files for warranty transition.
+Types up and imports damper and valve schedules.
+Types up and imports sequences of operations.
+Interacts with appropriate staff to answer questions and resolve potential concerns.
+Works with other team members including engineers and technicians to obtain concise information necessary to the design process and answer questions or provide information for the installation process.
+Keeps abreast of information regarding Trane products, installation and design.
+Completes drawings according to scheduled deadlines.
+Flexibility to work overtime/weekends, as needed.
+QUALIFICATIONS To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.&lt;/p&gt;
+&lt;p&gt;EDUCATION and/or EXPERIENCE&lt;/p&gt;
+&lt;p&gt;An Associates Degree from college or technical school in Computer-Aided Design or Drafting; or at least six (6) months related experience and/or training; or equivalent combination of education and experience. Working knowledge of AutoCAD or other computer aided design, Microsoft Office software required. HVAC/technical work experience preferred.&lt;/p&gt;
+&lt;p&gt;LANGUAGE SKILLS&lt;/p&gt;
+&lt;p&gt;Ability to read and interpret documents such as specifications, plans, operating and maintenance instructions, and procedure manuals. Ability to write routine reports and correspondence. Ability to speak effectively before groups of customers or employees of organization.&lt;/p&gt;
+&lt;p&gt;MATHEMATICAL SKILLS&lt;/p&gt;
+&lt;p&gt;Ability to apply concepts such as fractions, percentages, ratios, and proportions to practical situations.&lt;/p&gt;
+&lt;p&gt;REASONING ABILITY&lt;/p&gt;
+&lt;p&gt;Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists. Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form.&lt;/p&gt;
+&lt;p&gt;PHYSICAL DEMANDS&lt;/p&gt;
+&lt;p&gt;The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.&lt;/p&gt;
+&lt;p&gt;While performing the duties of this job, the employee is frequently required to stand, walk, and sit; and to use hands to finger, handle, and feel. The employee is occasionally required to reach with hands and arms; and stoop, kneel, crouch, or crawl. The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this job include close vision, depth perception, and ability to adjust focus.&lt;/p&gt;
+&lt;p&gt;WORK ENVIRONMENT&lt;/p&gt;
+&lt;p&gt;The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.&lt;/p&gt;
+&lt;p&gt;This position typically works in an office environment. The noise level in the work environment is usually moderate.&lt;/p&gt;
+&lt;p&gt;We are committed to helping you reach your professional, personal and financial goals. We offer competitive compensation that aligns with our business strategies and comprehensive benefits to help you live your healthiest. We are committed to building an inclusive and diverse culture that engages as well as values the different backgrounds and experiences of our employee, which, in turn, spurs innovation, generates creative solutions and enhances our customer relations.&lt;/p&gt;</summary><category term="創造力"></category></entry></feed>
