@@ -74,7 +74,6 @@
 </v>
 <v t="leo.20161109132422.1" a="E"><vh>Markdown 投影片</vh>
 <v t="leo.20161109132422.2"><vh>MD 投影片內容</vh></v>
-<v t="amd.20161004083800.110"><vh>引用程式碼</vh></v>
 </v>
 <v t="amd.20161004083800.115"><vh>無序表列</vh></v>
 <v t="amd.20161004083800.121"><vh>有序表列</vh></v>
@@ -153,32 +152,6 @@ print("hello")
 &lt;html lang="en"&gt;
 @others
 &lt;/html&gt;
-</t>
-<t tx="amd.20161004083800.110">&lt;section&gt;
-    &lt;h2&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre&gt;
-        &lt;code class="hljs" data-trim contenteditable&gt;
-        function linkify( selector ) {
-          if( supports3DTransforms ) {
-        
-            var nodes = document.querySelectorAll( selector );
-        
-            for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-              var node = nodes[i];
-        
-              if( !node.className ) {
-                node.className += ' roll';
-              }
-            }
-          }
-        }
-        &lt;/code&gt;
-    &lt;/pre&gt;
-    &lt;p&gt;
-    Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-			
 </t>
 <t tx="amd.20161004083800.115">&lt;section&gt;	
     &lt;h2&gt;Marvelous List&lt;/h2&gt;
