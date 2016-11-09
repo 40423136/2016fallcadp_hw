@@ -72,7 +72,10 @@
 <v t="amd.20161004171423.1" a="E"><vh>Markdown 投影片</vh>
 <v t="amd.20161004171423.2"><vh>MD 投影片內容</vh></v>
 </v>
+<v t="leo.20161109132422.1" a="E"><vh>Markdown 投影片</vh>
+<v t="leo.20161109132422.2"><vh>MD 投影片內容</vh></v>
 <v t="amd.20161004083800.110"><vh>引用程式碼</vh></v>
+</v>
 <v t="amd.20161004083800.115"><vh>無序表列</vh></v>
 <v t="amd.20161004083800.121"><vh>有序表列</vh></v>
 <v t="amd.20161004083800.158"><vh>轉為 PDF 檔案</vh></v>
@@ -100,6 +103,7 @@
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="leo.20161027164052.1"><vh>@edit 20160922.md</vh></v>
+<v t="leo.20161109132638.1"><vh>@edit 20160923.md</vh></v>
 </v>
 </v>
 </v>
@@ -742,5 +746,22 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20161109132422.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20161109132422.2"># 零件繪製
+
+&lt;iframe src="https://player.vimeo.com/video/190821821" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190821821"&gt;2016 11 09 12 52 01 308&lt;/a&gt; from &lt;a href="https://vimeo.com/user47741345"&gt;ben&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
 </tnodes>
 </leo_file>
